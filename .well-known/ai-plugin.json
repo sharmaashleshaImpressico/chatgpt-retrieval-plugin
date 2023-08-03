@@ -3,7 +3,7 @@
   "name_for_model": "QnAPlugin",
   "name_for_human": "QnA Plugin",
   "description_for_model": "Use this tool to get up to date information about any legal case.",
-  "description_for_human": "Update information about the US cases.",
+  "description_for_human": "Updated information about the US cases.",
   "auth": {
     "type": "user_http",
     "authorization_type": "bearer"
