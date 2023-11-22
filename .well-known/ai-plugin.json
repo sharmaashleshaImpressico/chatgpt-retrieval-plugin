@@ -4,16 +4,12 @@
   "name_for_human": "QnA Plugin",
   "description_for_model": "Use this tool to get up to date information about any legal case.",
   "description_for_human": "Updated information about the US cases.",
-  "auth": {
-    "type": "user_http",
-    "authorization_type": "bearer"
-  },
   "api": {
     "type": "openapi",
     "url": "https://qna-gpt-plugin.onrender.com/.well-known/openapi.yaml",
     "has_user_authentication": false
   },
   "logo_url": "https://qna-gpt-plugin.onrender.com/.well-known/logo.png",
-  "contact_email": "hello@contact.com", 
+  "contact_email": "ashlesha.sharma@impressico.com", 
   "legal_info_url": "http://example.com/legal-info"
 }
